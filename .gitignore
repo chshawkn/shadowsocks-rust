@@ -7,3 +7,6 @@
 /*.log
 /debian/*.log
 /.vscode
+
+/config.json
+*.iml
